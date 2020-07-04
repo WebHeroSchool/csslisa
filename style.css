@@ -37,3 +37,9 @@
 .footer__paragraph {
   color: white;
 }
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+}
