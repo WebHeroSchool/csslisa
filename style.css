@@ -1,0 +1,39 @@
+.header__title {
+ color: blue;
+ text-align: center;
+}
+.header {
+  background-color: grey;
+}
+.header__button {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.section__title {
+  color: blue;
+  text-align: center;
+}
+.section__button {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.section {
+  background-color: lightgrey;
+}
+.footer {
+  background-color: blue;
+}
+.footer__title {
+  color: white;
+  text-align: center;
+}
+.footer__button {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.footer__paragraph {
+  color: white;
+}
